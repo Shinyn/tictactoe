@@ -1,3 +1,3 @@
 # Tictactoe
 
-//This is of a very simple tictactoe game I had as a school project.
+//This is a very simple tictactoe game I made for a school project.
